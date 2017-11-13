@@ -1,0 +1,15 @@
+{
+  "name": "argonaut-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The argonaut syntax theme from iTerm2",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alxtz/argonaut-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
